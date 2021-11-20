@@ -1,0 +1,540 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+
+.top_page {
+  width: 100%;
+  background-color: rgb(194, 218, 228); 
+   
+
+}
+
+.top_box {
+  width: 1440px;
+  height: 736px;
+  background-color: #1E425E;
+  margin: auto;
+  padding-top:97px;
+}
+
+
+.title_area{
+  width: 1440px;
+  height: 197px; 
+  margin:auto;
+  text-align: center;
+  font-family: Yu Gothic Medium;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 53px;
+  line-height: 95px;
+  text-align: center;
+  letter-spacing: 0.12em;
+  color: #FFF7F7;
+  
+}
+
+
+
+ .title_under{
+  border-bottom: solid 6px #82D7C3;
+
+
+
+
+ }
+
+.top_image{
+  width: 1440px;
+  height: 292px;
+  margin-top:52px;
+  
+
+
+}
+
+
+.top_image_box{
+  width: 900px;
+  height: 286px;
+  
+  margin: auto;
+
+}
+
+.top_mini_title{
+  width: 1440px;
+  height: 76px;
+ 
+  text-align: center;
+  line-height: 76px;
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  letter-spacing: -0.02em;
+  color: #FFF7F7;
+  z-index:1;
+  
+
+}
+
+
+
+.scroll_box{
+  width: 1440px;
+  height: 76px;
+  
+  display:flex;
+  justify-content: center;
+  margin-top:12px;
+ 
+
+}
+
+ .scroll_icon_box{
+
+  width: 76px;
+  height: 55.82px;
+  margin:auto;
+  
+
+ }
+
+ a {
+  transition: all 0.3s;
+}
+
+a:hover {
+  transform: translate(0px,10px);
+}
+
+html{scroll-behavior: smooth;}
+
+ 
+
+.second_box{
+  width: 1440px;
+  height: 224px;
+  background: #FFF7F7;
+  margin:auto;
+  padding-top: 58px;
+
+
+}
+
+
+
+.about_area2{
+  width: 1440px;
+  height: 182px;
+  
+ 
+
+
+}
+
+.about2{
+  width: 665px;
+  height: 182px;
+  
+  font-family: Yu Gothic Medium;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 37px;
+  line-height: 80px;
+  text-align: center;
+  color: #1E425E;
+  margin:auto;
+
+}
+
+.third_box{
+  width: 1440px;
+  height: 677px;
+  margin:auto;
+  background: #C7C7C7;
+  padding-top:102px;
+
+}
+
+
+.question_area{
+  width: 1440px;
+  height: 163px;
+ 
+  font-family: Yu Gothic Medium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 57px;
+  line-height: 163px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #1E425E;
+  
+
+}
+
+
+
+.comment_area{
+  width: 1440px;
+
+  height: 255px;
+  background: #C7C7C7;
+  margin-top: 76px;
+  padding-top: 60px;
+  background-image: url("../images/hukidashigroup1.png");
+  
+}
+
+
+.comment_miniarea{
+  width: 1440px;
+  height: 130px;
+  
+  display:flex;
+  
+}
+
+
+.comment1{
+  width: 1000px;
+  height: 130px;
+ 
+  font-family: Yu Gothic Medium;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+
+  line-height: 45px;
+  color: #1E425E;
+  margin-left:160px;
+  
+}
+
+
+ .bold_underline{
+
+
+  background: linear-gradient(transparent 0, rgba(130, 215, 195, 0.5) 0);
+
+ }
+
+.comment2{
+  width: 850px;
+  height: 130px;
+  
+  font-family: Yu Gothic Medium;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+
+  line-height: 45px;
+
+  
+  color: #1E425E;
+ 
+  
+  
+}
+
+.forth_box{
+
+  width: 1440px;
+  height: 519px;
+  background: #FFF7F7;
+  margin:auto;
+  padding-top:96px
+
+}
+
+.solution_area{
+  width: 1440px;
+  height: 506px;
+  
+
+}
+
+.solution_image_box{
+  width: 1196px;
+  height: 374px;
+
+ 
+  
+  margin:auto;
+  background-image: url(../images/solution_box.png);
+  padding-top: 130px;
+
+
+}
+
+.solution_title{
+  width: 1048px;
+  height: 73px;
+  font-family: Yu Gothic Medium;
+font-style: normal;
+font-weight: 500;
+  line-height: 73px;
+  
+  text-align: center;
+  margin:auto;
+  font-size: 49px;
+  letter-spacing: 0.06em;
+  
+  color: #FFF7F7;
+
+  
+}
+
+
+ .color_change{
+
+
+
+  color:#82D7C3;
+
+
+
+ }
+
+.solution{
+  width: 1196px;
+ height:224px;
+ 
+  display:flex;
+  justify-content: space-around;
+  margin-top:20px;
+  
+}
+
+.solution_details{
+  width: 537px;
+height: 191px;
+  background: #FFF7F7;
+  border-radius: 15px;
+  font-family: Yu Gothic Medium;
+font-style: normal;
+font-weight: 500;
+  font-size: 30px;
+  line-height: 50px;
+  text-align: center;
+  padding-top: 40px;
+
+  
+  color: #173C5A;
+
+
+}
+
+
+ .title_under2{
+ 
+  background: linear-gradient(transparent 95%, #82D7C3 95%)
+
+
+ }
+.fifth_box{
+  width: 1440px;
+  height: 1002px;
+  background: #FFF7F7;
+
+  margin:auto;
+
+  padding-top: 100px;
+}
+
+
+.introduction_title{
+
+  width: 1440px;
+  height: 78px;
+  
+  font-family: Yu Gothic Medium;
+font-style: normal;
+font-weight: 500;
+  line-height: 78px;
+  text-align: center;
+  font-size: 52px;
+  color: #173C5A;
+
+
+}
+
+.introduction_subtitle{
+  width: 1440px;
+  height: 78px;
+  
+  font-family: Yu Gothic Medium;
+font-style: normal;
+font-weight: 500;
+  line-height: 76px;
+  text-align: center;
+  font-size: 34px;
+  margin-top:36px;
+
+  color: #173C5A;
+
+
+}
+
+
+ .normal_under{
+  background: linear-gradient(transparent 95%, #173C5A 95%);
+
+
+
+ }
+
+.download_box{
+  width: 1440px;
+  height: 250px;
+  
+  margin:auto;
+  margin-top:138px;
+  display:flex;
+
+}
+
+ .icon-image{
+  width: 251px;
+  height: 250px;
+  margin-left:275px;
+ }
+
+
+ .download_details{
+  width: 615px;
+  height: 250px;
+  
+
+  margin-right:514px;
+  margin-left:28px;
+
+ }
+
+ .download_title{
+  width: 616px;
+  height: 70px;
+  line-height: 75px;
+  text-align: center;
+  font-size: 47px;
+  font-family: Yu Gothic Medium;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 70px;
+  color: #1E425E;
+  
+ }
+
+ .get{
+  width: 616px;
+  height: 186px;
+  
+
+ }
+
+ .get_title{
+  width: 618px;
+  height: 70px;
+  
+  font-family: Yu Gothic Medium;
+font-style: normal;
+  text-align: center;
+  line-height: 70px;
+  font-size:36px;
+  color: #173C5A;
+
+
+ }
+
+
+ .get_image{
+  width: 615px;
+  height: 81px;
+  
+  
+  display:flex;
+  justify-content: center;
+
+ }
+
+  .get_icon{
+
+
+    width: 548px;
+    height: 122px;
+  }
+
+
+.go_to_show{
+
+  margin-top:161px;
+  
+
+}
+
+ .show_image{
+
+   background-image: url("../images/go_to_show.png");
+   width: 758px;
+   height: 119px;
+   font-family: Yu Gothic Medium;
+   font-style: normal;
+   font-weight: bold;
+   margin:auto;
+   font-size: 37px;
+   line-height: 119px;
+   text-align: center;
+   color: #FFF7F7;
+
+
+ }
+
+
+
+
+
+
+
+ 
+footer{
+
+  font-family: Yu Gothic Medium;
+  width: 1440px;
+  height: 96px;
+  background: #1E425E;
+  margin:auto;
+  text-align: center;
+
+}
+
+
+
+ .footer1{
+  width: 1440px;
+  height: 55px;
+  color: #FFFFFF;
+  font-size: 17px;
+  line-height:55px;
+  font-family: Yu Gothic Medium;
+
+
+ }
+
+
+ .footer2{
+  width: 1440px;
+  height: 41px;
+  color: #FFFFFF;
+  font-size: 15px;
+  line-height:41px;
+  font-family: Yu Gothic Medium;
+ 
+ }
