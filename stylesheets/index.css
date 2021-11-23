@@ -8,6 +8,7 @@
 
 body{
 
+  font-family: Yu Gothic Medium,"Meiryo UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN","Yu Gothic UI", "MS PGothic", sans-serif;
   background-color: #fff7f7;
 }
 
@@ -1027,7 +1028,7 @@ justify-content: center;
 footer{
 
   font-family: Yu Gothic Medium;
-  width: 100%;
+  width: 1440px;
   height: 96px;
   background: #1E425E;
   
@@ -1040,7 +1041,7 @@ footer{
 
 
  .footer1{
-  width: 100%;
+  width: 1440px;
   height: 55px;
   color: #FFFFFF;
   font-size: 17px;
@@ -1052,7 +1053,7 @@ footer{
 
 
  .footer2{
-  width: 100%;
+  width: 1440px;
   height: 41px;
   color: #FFFFFF;
   font-size: 15px;
