@@ -11,6 +11,13 @@
   background-color: #fff7f7;
 }
 
+.top_box_box{
+  width: 100%;
+  height: 833px;
+  background-color: #1E425E;
+  margin: auto;
+
+}
 .top_box {
   width: 1440px;
   height: 736px;
@@ -150,7 +157,13 @@ html{scroll-behavior: smooth;}
   margin:auto;
 
 }
+.third_box_box{
+  width: 100%;
+  height: 779px;
+  margin:auto;
+  background: #C7C7C7;
 
+}
 .third_box{
   width: 1440px;
   height: 677px;
@@ -518,7 +531,15 @@ a:hover {
 html{scroll-behavior: smooth;}
 
 
+.sixth_box_box{
+  background:#1E425E;
+  color:white;
+  width: 100%;
+  height:870px;
+  margin:auto;
+  
 
+}
 
   
  .sixth_box{
@@ -555,7 +576,7 @@ html{scroll-behavior: smooth;}
 
 
 .seventh_box{
-  width: 1440px;
+  width: 100%;
   height: 340px;
   
   padding-top:336px;
@@ -565,7 +586,14 @@ html{scroll-behavior: smooth;}
 
 
 }
+.sub-title-content_box{
+  background-color: #82D7C3;
+  height:152px;
+  width:100%;
+  margin:auto;
 
+  
+}
 .sub-title-content{
  
   
@@ -980,10 +1008,12 @@ justify-content: center;
 footer{
 
   font-family: Yu Gothic Medium;
-  width: 1440px;
+  width: 100%;
   height: 96px;
   background: #1E425E;
-  margin:auto;
+  
+  justify-content: center;
+
   text-align: center;
 
 }
@@ -991,7 +1021,7 @@ footer{
 
 
  .footer1{
-  width: 1440px;
+  width: 100%;
   height: 55px;
   color: #FFFFFF;
   font-size: 17px;
@@ -1003,7 +1033,7 @@ footer{
 
 
  .footer2{
-  width: 1440px;
+  width: 100%;
   height: 41px;
   color: #FFFFFF;
   font-size: 15px;
