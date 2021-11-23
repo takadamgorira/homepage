@@ -1,5 +1,6 @@
 
 
+
   * {
     margin: 0;
     padding: 0;
@@ -7,6 +8,7 @@
 
 .top_page {
   width: 100%;
+  background-color:#fff7f7;
 }
 
 .top_box {
@@ -878,6 +880,7 @@ text-align: center;
 
 color: #1E425E;
 margin-top:163px;
+background-color:#fff7f7;
 
 }
 .tenth_box_text{
@@ -901,6 +904,7 @@ margin:auto;
 margin-top:70px;
 display:flex;
 margin-bottom:129px;
+background-color:#fff7f7;
 
 }
 
