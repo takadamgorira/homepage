@@ -8,8 +8,9 @@
 
 body{
 
-  font-family: Yu Gothic Medium,"Meiryo UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN","Yu Gothic UI", "MS PGothic", sans-serif;
+  font-family: Yu Gothic Medium, "MS PGothic", "Hiragino Kaku Gothic ProN","Hiragino Sans","Meiryo UI", "Yu Gothic UI", sans-serif;
   background-color: #fff7f7;
+  width:100%;
 }
 
 .top_page {
@@ -689,7 +690,7 @@ height: 513.42px;
 
 .contents-title-span{
  
-  font-family: Yesteryear bold;
+  font-family: Yu Gothic Medium;
 font-style: normal;
 font-weight: normal;
 font-size: 42px;
@@ -703,7 +704,7 @@ color: #1F4463;
 
 .contents-title-span span{
 
-  font-family: Yesteryear bold;
+  font-family: Yu Gothic Medium;
 font-style: normal;
 font-weight: normal;
 font-size: 50px;
@@ -1034,7 +1035,7 @@ justify-content: center;
 footer{
 
   font-family: Yu Gothic Medium;
-  width: 1440px;
+  min-width: 1440px;
   height: 96px;
   background: #1E425E;
   
@@ -1047,7 +1048,7 @@ footer{
 
 
  .footer1{
-  width: 1440px;
+  min-width: 1440px;
   height: 55px;
   color: #FFFFFF;
   font-size: 17px;
@@ -1059,7 +1060,7 @@ footer{
 
 
  .footer2{
-  width: 1440px;
+  min-width: 1440px;
   height: 41px;
   color: #FFFFFF;
   font-size: 15px;
